@@ -7,10 +7,19 @@ I'm a full stack software engineer based in Canada who is passionate about every
 - Industry Experience: 7+ years 🧑🏻‍💻
 - Education: BSc in Computer Science, GradCert in Mobile and Web Development
 
-<!--
 ### My Current Tech Stack
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" alt="Next.js" width="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker" width="55" />
+</p>
 
+<!--
 #### I also use or have used:
+<p align="left">
+</p>
 
 <!--
 **AndrewSavetchuk/AndrewSavetchuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
