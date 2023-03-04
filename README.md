@@ -16,9 +16,10 @@ I'm a full stack software engineer based in Canada who is passionate about every
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker" width="55" />
 </p>
 
-<!--
 #### I also use or have used:
 <p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" alt="Nuxt.js" width="40" />
 </p>
 
 <!--
