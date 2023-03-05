@@ -39,4 +39,8 @@ I'm a full stack software engineer based in Canada who is passionate about every
 * [How to Find Large Files  in an AWS S3 Bucket Using Command Line Interface](https://blog.savetchuk.com/how-to-find-large-files-in-an-aws-s3-bucket-using-command-line-interface)
 
 ## Connect With Me
-TODO
+<p>
+  <a href="https://www.linkedin.com/in/andrewsavetchuk/" target="_blank" title="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
