@@ -7,7 +7,7 @@ I'm a full stack software engineer based in Canada who is passionate about every
 - Industry Experience: 7+ years 🧑🏻‍💻
 - Education: BSc in Computer Science, GradCert in Mobile and Web Development
 
-### I'm currently working with
+## Current Tech Stack
 <p align="left">  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="55" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="55" />
@@ -58,3 +58,9 @@ Here are some ideas to get you started:
 ## Contributions
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndrewSavetchuk" alt="Contributions Info" />
 
+## Latest Blog Posts
+* [Overview of MVC Architectural Pattern](https://blog.savetchuk.com/overview-of-mvc-architectural-pattern)
+* [The Difference Between Types (Type Aliases) And Interfaces in TypeScript](https://blog.savetchuk.com/the-difference-between-types-type-aliases-and-interfaces-in-typescript)
+* [Advanced Overview of String Conversion  in JavaScript](https://blog.savetchuk.com/advanced-overview-of-string-conversion-in-javascript)
+* [The Difference Between Docker Images and  Docker Containers](https://blog.savetchuk.com/the-difference-between-docker-images-and-docker-containers)
+* [How to Add TypeScript to Existing Next.js Project](https://blog.savetchuk.com/how-to-add-typescript-to-existing-nextjs-project)
