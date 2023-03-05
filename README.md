@@ -55,3 +55,6 @@ Here are some ideas to get you started:
 ## 💡 About Me
 -->
 
+## Contributions
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AndrewSavetchuk" alt="Contributions Info" />
+
