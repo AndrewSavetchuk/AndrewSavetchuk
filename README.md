@@ -8,52 +8,13 @@ I'm a full stack software engineer based in Canada who is passionate about every
 - Education: BSc in Computer Science, GradCert in Mobile and Web Development
 
 ## Current Tech Stack
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://github.com/AndrewSavetchuk">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="https://github.com/AndrewSavetchuk">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="https://github.com/AndrewSavetchuk">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
-      </a>
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <a href="https://github.com/AndrewSavetchuk">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="48" height="48" alt="Next.js" />
-      </a>
-      <br>Next.js
-    </td>
-    <td align="center" width="96">
-      <a href="https://github.com/AndrewSavetchuk">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="48" height="48" alt="Laravel" />
-      </a>
-      <br>Laravel
-    </td>
-    <td align="center" width="96">
-      <a href="https://github.com/AndrewSavetchuk">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
-      </a>
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-      <a href="https://github.com/AndrewSavetchuk">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="48" height="48" alt="AWS" />
-      </a>
-      <br>AWS
-    </td>
-  </tr>
-</table>
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/AndrewSavetchuk)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330)](https://github.com/AndrewSavetchuk)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/AndrewSavetchuk)
+[![Next.js](https://img.shields.io/badge/next.js-20232A?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/AndrewSavetchuk)
+[![MySQL](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/AndrewSavetchuk)
+[![Laravel](https://img.shields.io/badge/Laravel-FD4F31?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/AndrewSavetchuk)
+[![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9800?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/AndrewSavetchuk)
 
 ### I also use or have used
 <table>
