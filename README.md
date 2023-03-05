@@ -64,3 +64,4 @@ Here are some ideas to get you started:
 * [Advanced Overview of String Conversion  in JavaScript](https://blog.savetchuk.com/advanced-overview-of-string-conversion-in-javascript)
 * [The Difference Between Docker Images and  Docker Containers](https://blog.savetchuk.com/the-difference-between-docker-images-and-docker-containers)
 * [How to Add TypeScript to Existing Next.js Project](https://blog.savetchuk.com/how-to-add-typescript-to-existing-nextjs-project)
+* [How to Find Large Files  in an AWS S3 Bucket Using Command Line Interface](https://blog.savetchuk.com/how-to-find-large-files-in-an-aws-s3-bucket-using-command-line-interface)
