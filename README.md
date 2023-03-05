@@ -8,65 +8,26 @@ I'm a full stack software engineer based in Canada who is passionate about every
 - Education: BSc in Computer Science, GradCert in Mobile and Web Development
 
 ## Current Tech Stack
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/AndrewSavetchuk)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330)](https://github.com/AndrewSavetchuk)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/AndrewSavetchuk)
-[![Next.js](https://img.shields.io/badge/next.js-20232A?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/AndrewSavetchuk)
-[![MySQL](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/AndrewSavetchuk)
-[![Laravel](https://img.shields.io/badge/Laravel-FD4F31?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/AndrewSavetchuk)
-[![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9800?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/AndrewSavetchuk)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5b21b6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/AndrewSavetchuk)
+[![JavaScript](https://img.shields.io/badge/JavaScript-5b21b6?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/AndrewSavetchuk)
+[![React](https://img.shields.io/badge/React-7e22ce?style=for-the-badge&logo=react&logoColor=white)](https://github.com/AndrewSavetchuk)
+[![Next.js](https://img.shields.io/badge/next.js-7e22ce?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/AndrewSavetchuk)
+[![MySQL](https://img.shields.io/badge/MySQL-a21caf?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/AndrewSavetchuk)
+[![Laravel](https://img.shields.io/badge/Laravel-a21caf?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/AndrewSavetchuk)
+[![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-d946ef?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/AndrewSavetchuk)
 
 ### I also use or have used
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://github.com/AndrewSavetchuk">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="Vue.js" />
-      </a>
-      <br>Vue.js
-    </td>
-    <td align="center" width="96">
-      <a href="https://github.com/AndrewSavetchuk">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="48" height="48" alt="Nuxt.js" />
-      </a>
-      <br>Nuxt.js
-    </td>
-    <td align="center" width="96">
-      <a href="https://github.com/AndrewSavetchuk">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
-      </a>
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <a href="https://github.com/AndrewSavetchuk">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express.js" />
-      </a>
-      <br>Express.js
-    </td>
-    <td align="center" width="96">
-      <a href="https://github.com/AndrewSavetchuk">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="48" height="48" alt="PHP" />
-      </a>
-      <br>PHP
-    </td>
-    <td align="center" width="96">
-      <a href="https://github.com/AndrewSavetchuk">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48" height="48" alt="Firebase" />
-      </a>
-      <br>Firebase
-    </td>
-    <td align="center" width="96">
-      <a href="https://github.com/AndrewSavetchuk">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-  </tr>
-</table>
+[![PHP](https://img.shields.io/badge/PHP-5b21b6?style=for-the-badge&logo=php&logoColor=white)](https://github.com/AndrewSavetchuk)
+[![Vue.js](https://img.shields.io/badge/Vue.js-7e22ce?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://github.com/AndrewSavetchuk)
+[![Nuxt.js](https://img.shields.io/badge/nuxt.js-7e22ce?style=for-the-badge&logo=nuxtdotjs&logoColor=white)](https://github.com/AndrewSavetchuk)
+[![MongoDB](https://img.shields.io/badge/MongoDB-a21caf?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/AndrewSavetchuk)
+[![Express.js](https://img.shields.io/badge/Express.js-a21caf?style=for-the-badge&logo=express&logoColor=white)](https://github.com/AndrewSavetchuk)
+[![Firebase](https://img.shields.io/badge/firebase-d946ef?style=for-the-badge&logo=firebase&logoColor=white)](https://github.com/AndrewSavetchuk)
+[![Docker](https://img.shields.io/badge/Docker-d946ef?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/AndrewSavetchuk)
 
 ### I no longer use
-[![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://github.com/AndrewSavetchuk)
-[![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://github.com/AndrewSavetchuk)
+[![jQuery](https://img.shields.io/badge/jQuery-71717a?style=for-the-badge&logo=jquery&logoColor=white)](https://github.com/AndrewSavetchuk)
+[![WordPress](https://img.shields.io/badge/Wordpress-71717a?style=for-the-badge&logo=wordpress&logoColor=white)](https://github.com/AndrewSavetchuk)
 
 <!--
 - 🔭 I’m currently working on ...
