@@ -41,13 +41,53 @@ I'm a full stack software engineer based in Canada who is passionate about every
   </tr>
 </table>
 
-![Current tech stack](https://skillicons.dev/icons?i=ts,js,react,nextjs,laravel,mysql,aws)
+### I also use or have used
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="48" height="48" alt="C#" />
+      <br>Vue.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="48" height="48" alt="Python" />
+      <br>Nuxt.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="Jsonnet" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="TypeScript" />
+      <br>Express.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="48" height="48" alt="JavaScript" />
+      <br>PHP
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48" height="48" alt="React" />
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Bootstrap" />
+      <br>Docker
+    </td>
+  </tr>
+</table>
 
-#### I also use or have used
-![I also use or have used](https://skillicons.dev/icons?i=vue,nuxtjs,mongodb,express,php,firebase,docker)
-
-#### I no longer use
-![I no longer use](https://skillicons.dev/icons?i=jquery,wordpress)
+### I no longer use
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="48" height="48" alt="C#" />
+      <br>jQuery
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="48" height="48" alt="Python" />
+      <br>WordPress
+    </td>
+  </tr>
+</table>
 
 <!--
 - 🔭 I’m currently working on ...
