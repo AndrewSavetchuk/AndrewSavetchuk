@@ -65,22 +65,8 @@ I'm a full stack software engineer based in Canada who is passionate about every
 </table>
 
 ### I no longer use
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://github.com/AndrewSavetchuk">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="48" height="48" alt="jQuery" />
-      </a>
-      <br>jQuery
-    </td>
-    <td align="center" width="96">
-      <a href="https://github.com/AndrewSavetchuk">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="48" height="48" alt="WordPress" />
-      </a>
-      <br>WordPress
-    </td>
-  </tr>
-</table>
+[![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://github.com/AndrewSavetchuk)
+[![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://github.com/AndrewSavetchuk)
 
 <!--
 - 🔭 I’m currently working on ...
