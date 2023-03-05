@@ -13,7 +13,7 @@ I'm a full stack software engineer based in Canada who is passionate about every
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="55" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="55" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="55" />
-<img src="https://user-images.githubusercontent.com/14139435/222941446-3f41dffb-7b18-4c42-b015-e08008e2cc57.svg" alt="Laravel" width="55" />
+<img src="https://user-images.githubusercontent.com/14139435/222941584-f9697fbb-67f9-4a76-a741-529f366636b0.svg" alt="Laravel" width="55" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="55" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="55" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="Express" width="55" />
