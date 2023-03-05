@@ -23,7 +23,7 @@ I'm a full stack software engineer based in Canada who is passionate about every
 #### I also use or have used
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original-wordmark.svg" alt="Nuxt.js" width="50" />
+<img src="https://user-images.githubusercontent.com/14139435/222940179-6e73b7fb-d1c1-47d3-9e16-2ff6d7b4aef2.svg" alt="Nuxt.js" width="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="Mongo DB" width="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="50" />
 </p>
