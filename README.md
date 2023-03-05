@@ -46,4 +46,7 @@ I'm a full stack software engineer based in Canada who is passionate about every
   <a href="https://twitter.com/AndrewSavetchuk" target="_blank" title="Twitter">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
+  <a href="https://mas.to/@AndrewSavetchuk" target="_blank" title="Mastodon">
+    <img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white" alt="Mastodon" />
+  </a>
 </p>
