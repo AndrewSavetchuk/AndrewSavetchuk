@@ -25,8 +25,8 @@ I'm a full stack software engineer based in Canada who is passionate about every
 [![Nuxt.js](https://img.shields.io/badge/nuxt.js-35495E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)](https://github.com/AndrewSavetchuk)
 
 ### Back-End Frameworks
-[![Laravel](https://img.shields.io/badge/Laravel-F9322C?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/AndrewSavetchuk)
-[![Express.js](https://img.shields.io/badge/Express.js-373648?style=for-the-badge&logo=express&logoColor=white)](https://github.com/AndrewSavetchuk)
+[![Laravel](https://img.shields.io/badge/Laravel-FF291A?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/AndrewSavetchuk)
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://github.com/AndrewSavetchuk)
 
 ### Cloud Services
 [![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/AndrewSavetchuk)
