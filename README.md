@@ -38,6 +38,7 @@ I'm a full stack software engineer based in Canada who is passionate about every
 #### I no longer use
 [![jQuery](https://img.shields.io/badge/jQuery-71717a?style=for-the-badge&logo=jquery&logoColor=white)](https://github.com/AndrewSavetchuk)
 [![WordPress](https://img.shields.io/badge/Wordpress-71717a?style=for-the-badge&logo=wordpress&logoColor=white)](https://github.com/AndrewSavetchuk)
+[![Drupal](https://img.shields.io/badge/Drupal-71717a?style=for-the-badge&logo=drupal&logoColor=white)](https://github.com/AndrewSavetchuk)
 
 <!--
 - 🔭 I’m currently working on ...
