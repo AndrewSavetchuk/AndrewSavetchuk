@@ -1,7 +1,7 @@
 # Hi there!
 
 I'm a full stack software engineer based in Canada who is passionate about everything related to technology. <br>
-In my free time, I run my [own blog](https://blog.savetchuk.com/) where I write about interesting things that I learn along the way. <br>
+In my free time, I run [a blog](https://blog.savetchuk.com/) where I write about interesting things that I learn along the way. <br>
 When I need to unwind, I usually spend time outside or play video games.
 
 ## About Me
