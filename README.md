@@ -10,8 +10,8 @@ I'm a full stack software engineer based in Canada who is passionate about every
 ## Skills
 
 #### Languages
-[![TypeScript](https://img.shields.io/badge/TypeScript-007BCD?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/AndrewSavetchuk)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=323330)](https://github.com/AndrewSavetchuk)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007BCD?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/AndrewSavetchuk)
 [![PHP](https://img.shields.io/badge/PHP-777BB3?style=for-the-badge&logo=php&logoColor=white)](https://github.com/AndrewSavetchuk)
 
 #### Databases
@@ -37,8 +37,8 @@ I'm a full stack software engineer based in Canada who is passionate about every
 
 #### I no longer use
 [![jQuery](https://img.shields.io/badge/jQuery-71717a?style=for-the-badge&logo=jquery&logoColor=white)](https://github.com/AndrewSavetchuk)
-[![WordPress](https://img.shields.io/badge/Wordpress-71717a?style=for-the-badge&logo=wordpress&logoColor=white)](https://github.com/AndrewSavetchuk)
 [![Drupal](https://img.shields.io/badge/Drupal-71717a?style=for-the-badge&logo=drupal&logoColor=white)](https://github.com/AndrewSavetchuk)
+[![WordPress](https://img.shields.io/badge/Wordpress-71717a?style=for-the-badge&logo=wordpress&logoColor=white)](https://github.com/AndrewSavetchuk)
 
 <!--
 - 🔭 I’m currently working on ...
