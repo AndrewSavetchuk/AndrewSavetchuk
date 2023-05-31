@@ -37,11 +37,6 @@ When I need to unwind, I usually spend time outside or play video games.
 #### Tools
 [![Docker](https://img.shields.io/badge/Docker-0091E2?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/AndrewSavetchuk)
 
-#### I no longer use
-[![jQuery](https://img.shields.io/badge/jQuery-71717a?style=for-the-badge&logo=jquery&logoColor=white)](https://github.com/AndrewSavetchuk)
-[![Drupal](https://img.shields.io/badge/Drupal-71717a?style=for-the-badge&logo=drupal&logoColor=white)](https://github.com/AndrewSavetchuk)
-[![WordPress](https://img.shields.io/badge/Wordpress-71717a?style=for-the-badge&logo=wordpress&logoColor=white)](https://github.com/AndrewSavetchuk)
-
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
