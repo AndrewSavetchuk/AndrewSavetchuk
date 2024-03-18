@@ -32,6 +32,7 @@ When I need to unwind, I usually spend time outside or play video games.
 
 #### Cloud Services
 [![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/AndrewSavetchuk)
+[![Microsoft Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://github.com/AndrewSavetchuk)
 [![Firebase](https://img.shields.io/badge/firebase-F68410?style=for-the-badge&logo=firebase&logoColor=white)](https://github.com/AndrewSavetchuk)
 
 #### Tools
