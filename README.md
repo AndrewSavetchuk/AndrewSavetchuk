@@ -6,7 +6,7 @@ When I need to unwind, I usually spend time outside or play video games.
 
 ## About Me
 - Location: Canada 🇨🇦
-- Experience: 7+ years 🧑🏻‍💻
+- Experience: 8 years 🧑🏻‍💻
 - Education: BSc in Computer Science, GradCert in Mobile and Web Development
 
 ## Skills
