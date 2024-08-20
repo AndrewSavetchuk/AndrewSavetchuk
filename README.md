@@ -18,6 +18,7 @@ When I need to unwind, I usually spend time outside or play video games.
 
 #### Databases
 [![MySQL](https://img.shields.io/badge/MySQL-3E6E93?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/AndrewSavetchuk)
+[![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://github.com/AndrewSavetchuk)
 [![MongoDB](https://img.shields.io/badge/MongoDB-0FA14C?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/AndrewSavetchuk)
 
 #### Front-End Frameworks
