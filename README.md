@@ -31,13 +31,17 @@ When I need to unwind, I usually spend time outside or play video games.
 [![Laravel](https://img.shields.io/badge/Laravel-FF291A?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/AndrewSavetchuk)
 [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://github.com/AndrewSavetchuk)
 
-#### Cloud Services
+#### Cloud Platforms
 [![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://github.com/AndrewSavetchuk)
 [![Microsoft Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://github.com/AndrewSavetchuk)
 [![Firebase](https://img.shields.io/badge/firebase-F68410?style=for-the-badge&logo=firebase&logoColor=white)](https://github.com/AndrewSavetchuk)
 
+#### DevOps Tools
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/AndrewSavetchuk)
+
 #### Tools
 [![Docker](https://img.shields.io/badge/Docker-0091E2?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/AndrewSavetchuk)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://github.com/AndrewSavetchuk)
 
 <!--
 - 🔭 I’m currently working on ...
@@ -45,13 +49,12 @@ When I need to unwind, I usually spend time outside or play video games.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
-## Contributions
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AndrewSavetchuk" alt="Contributions Info" />
+<!--## Contributions
+--<img src="https://github-readme-streak-stats.herokuapp.com/?user=AndrewSavetchuk" alt="Contributions Info" />
+-->
 
 ## Latest Blog Posts
 * [Overview of MVC Architectural Pattern](https://blog.savetchuk.com/overview-of-mvc-architectural-pattern)
