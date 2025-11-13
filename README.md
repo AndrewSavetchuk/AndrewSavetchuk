@@ -4,7 +4,7 @@ I'm a full stack software engineer based in Canada who is passionate about every
 
 ## About Me
 - Location: Canada 🇨🇦
-- Experience: 8 years 🧑🏻‍💻
+- Experience: 9 years 🧑🏻‍💻
 - Education: BSc in Computer Science, GradCert in Mobile and Web Development
 
 ## Skills
